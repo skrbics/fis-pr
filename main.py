@@ -1,1 +1,1 @@
-print("Podatkovno rudarjenje :)")
+print("Podatkovno rudarjenje")
